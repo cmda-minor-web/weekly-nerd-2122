@@ -1,4 +1,4 @@
-# Weekly Nerd @cmda-minor-web · 2021
+# Weekly Nerd @cmda-minor-web · 2020 - 2021
 
 Elke week is er op woensdagmiddag de Weekly Nerd: 
 Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
