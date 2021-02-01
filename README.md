@@ -1,7 +1,17 @@
 # Weekly Nerd @cmda-minor-web · 2020 - 2021
 
-Elke week is er op woensdagmiddag de Weekly Nerd: 
+Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met het vakgebied. 
 Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
+
+## Programma
+
+| Datum  |  Wat/Wie | Waar  | Link | 
+|---|---|---|---|
+| 5 Maart  | Dept, Label A | Online  |   |
+| 2 April  | Triple, Mirabeau | Online  |   |
+| 30 April  | Voorhoede, Lifely | Online  |   |
+| 4 Juni  | Stagemarkt | Offline?  |   |
+
 
 ## Leerdoelen
 - Kennismaken met het beroepenveld
@@ -9,11 +19,10 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 - Vakgerelateerde artikelen leren schrijven
 
 ## Werkwijze
-Elke week wordt er een presentatie gegeven door iemand uit het vakgebied. 
-Dit proberen we zo veel mogelijk bij bedrijven te organiseren. 
+Vier keer wordt er een presentatie gegeven door iemand uit het vakgebied. 
+Bedrijven presenteren een Case Stud en er is ruimte om vragen te stellen. 
 Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
 Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
-
 
 Maak van iedere presentatie sketch-notes / aantekeningen en verzamel die op een blog. 
 Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
@@ -21,9 +30,7 @@ Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod z
 
 ## Criteria
 Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
-Je mag niet meer dan 1 Weekly Nerd missen. 
-Als je meer dan 1 Weekly Nerd mist dan krijg je een vervangende opdracht.
-
+Als je een Weekly Nerd mist dan krijg je een vervangende opdracht.
 
 3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
 Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
@@ -40,22 +47,5 @@ Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterpr
 * https://github.com/Jamerrone/weekly-nerd-blog/blob/master/articles/article-3.md
 * https://github.com/muise001/Weekly_Nerd#bruce-lawson---w3c-over-webstandards
 * https://medium.com/@vincentkempers_/my-experience-at-nlhtml5-x-cssday-df855997a191
-
-
-## Programma
-
-### Workshops, praatjes en lezingen
-
-
-| Datum  |  Wat/Wie | Waar  | Link | 
-|---|---|---|---|
-| 13 Februari  | Hidde de Vries - Toegankelijkheid en CSS expert bij W3C  | BPH 01B11  |   |
-| 19 Februari  | Sanne 't Hoofd - Code en UX  | BPH 01B11  |   |
-| 26 Februari  | FUNDA - Scrum en proof-of-concept  | Funda  |   |
-| ~~11 Maart~~  | ~~Voorhoede - PE~~ | ~~de Voorhoede~~  |   |
-| ~~18 Maart~~  | ~~Bol.com~~  | ~~Bol.com~~  |   |
-|   |   |   |   |   |
-
-
 
 
