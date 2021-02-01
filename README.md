@@ -6,7 +6,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 ## Programma
 
 | Datum  |  Wat/Wie | Waar  |
-|---|---|---|---|
+|---|---|---|
 | 5 Maart  | [Dept](https://www.deptagency.com/nl-nl/), [Label A](http://www.labela.design) | Online  | 
 | 2 April  | [Triple](https://www.wearetriple.com), [Mirabeau](https://www.mirabeau.nl) | Online  |
 | 30 April  | [Voorhoede](https://www.voorhoede.nl/nl/), [Lifely](https://lifely.nl) | Online  | 
