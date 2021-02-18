@@ -10,7 +10,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 | 5 Maart  | [Dept](https://www.deptagency.com/nl-nl/), [Label A](http://www.labela.design) | Online  | 
 | 1 April  | [Triple](https://www.wearetriple.com), [BIA](https://www.bia.nl/) | Online  |
 | 30 April  | [Mirabeau](https://www.mirabeau.nl), [Lifely](https://lifely.nl) | Online  | 
-| 4 Juni  | Stagediving Dept, Label A, Triple, BIA. Mirabeau, Lifely, Q42, Voorhoede | Offline?  |
+| 4 Juni  | Stagediving Dept, Label A, Triple, BIA. Mirabeau, Lifely, Q42, Voorhoede, GRRR, ICAT, Funda, ... | Offline?  |
 
 
 ## Leerdoelen
