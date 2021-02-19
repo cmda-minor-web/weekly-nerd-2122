@@ -29,7 +29,7 @@ Engels wordt aangeraden.
 |---|---|
 | 5 Maart  | [Dept](https://www.deptagency.com/nl-nl/), [Label A](http://www.labela.design) |
 
-Op de CSS-tricks staat een lijst interessante mensen die beschrijven wat een [goede frontend developer](https://css-tricks.com/what-makes-a-good-front-end-developer/) is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees de [The great divide](https://css-tricks.com/the-great-divide/) van Brad Frost om de vraag te beantwoorden. 
+Op de CSS-tricks staat een lijst interessante mensen die beschrijven wat een [goede frontend developer](https://css-tricks.com/what-makes-a-good-front-end-developer/) is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees ook de [The great divide](https://css-tricks.com/the-great-divide/) van Brad Frost om de vraag te beantwoorden. 
 
 
 ### Weekly Nerd #2
@@ -38,13 +38,16 @@ Op de CSS-tricks staat een lijst interessante mensen die beschrijven wat een [go
 |---|---|
 | 1 April  | [Triple](https://www.wearetriple.com), [BIA](https://www.bia.nl/) |
 
-
+<!-- Vraag over softskills -->
 
 ### Weekly Nerd #3
 
 | Datum  |  Bedrijven |
 |---|---|
 | 30 April  | [Mirabeau](https://www.mirabeau.nl), [Lifely](https://lifely.nl) |
+
+<!-- Verschil niveau  Ad, Ba en master nievau van een frontender -->
+<!-- Voorbeeld vacature tekst met werkzaamheden -->
 
 
 ### Weekly Nerd #4
