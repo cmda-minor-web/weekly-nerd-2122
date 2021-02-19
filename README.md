@@ -18,6 +18,11 @@ Maak van iedere presentatie sketch-notes / aantekeningen. Beantwoord per sessie 
 Fork de Weekly Nerd repo en verzamel je aantekeningen in de wiki of maak zelf een blog. 
 Tip: Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
 
+3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
+Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
+Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
+Engels wordt aangeraden.
+
 ### Weekly Nerd #1
 
 | Datum  |  Bedrijven |
@@ -49,15 +54,9 @@ Op de CSS-tricks staat een lijst interessante mensen die beschrijven wat een [go
 | 4 Juni  | Stagediving met Dept, Label A, Triple, BIA. Mirabeau, Lifely, Q42, Voorhoede, GRRR, ICAT, Funda, ... |
 
 
-
 ## Criteria
 Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
 Als je een Weekly Nerd mist dan krijg je een vervangende opdracht.
-
-3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
-Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
-Engels wordt aangeraden.
 
 Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
 
