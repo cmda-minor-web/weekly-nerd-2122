@@ -4,7 +4,7 @@ Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met 
 Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
 
 ## Leerdoelen
-- Kennismaken met het beroepenvel
+- Kennismaken met het beroepenveld
 - Orienteren op het vakgebied
 - Vakgerelateerde artikelen leren schrijven
 
