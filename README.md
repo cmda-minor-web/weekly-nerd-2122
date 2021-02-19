@@ -18,7 +18,8 @@ Maak van iedere presentatie sketch-notes / aantekeningen en verzamel die op een 
 
 ### Weekly Nerd #1
 
-| Datum  |  Bedrijven | Vraag |
+| Datum  |  Bedrijven |
+|---|---|
 | 5 Maart  | [Dept](https://www.deptagency.com/nl-nl/), [Label A](http://www.labela.design) |
 
 Op de [CSS-tricks blog](https://css-tricks.com/what-makes-a-good-front-end-developer/) staat een lijst interessante mensen die beschrijven wat een goede frontend developer is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees de [The great divide](https://css-tricks.com/the-great-divide/) om de vraag te beantwoorden. 
@@ -26,20 +27,24 @@ Op de [CSS-tricks blog](https://css-tricks.com/what-makes-a-good-front-end-devel
 
 ### Weekly Nerd #2
 
-| 1 April  | [Triple](https://www.wearetriple.com), [BIA](https://www.bia.nl/) | |
+| Datum  |  Bedrijven |
+|---|---|
+| 1 April  | [Triple](https://www.wearetriple.com), [BIA](https://www.bia.nl/) |
 
 
 
 ### Weekly Nerd #3
 
-| 30 April  | [Mirabeau](https://www.mirabeau.nl), [Lifely](https://lifely.nl) |   |
+| Datum  |  Bedrijven |
+|---|---|
+| 30 April  | [Mirabeau](https://www.mirabeau.nl), [Lifely](https://lifely.nl) |
 
 
 ### Weekly Nerd #4
 
-| 4 Juni  | Stagediving * | Misschien offline?  |
-
-* Stagediving met Dept, Label A, Triple, BIA. Mirabeau, Lifely, Q42, Voorhoede, GRRR, ICAT, Funda, ...
+| Datum  |  Bedrijven |
+|---|---|
+| 4 Juni  | Stagediving met Dept, Label A, Triple, BIA. Mirabeau, Lifely, Q42, Voorhoede, GRRR, ICAT, Funda, ... |
 
 
 
