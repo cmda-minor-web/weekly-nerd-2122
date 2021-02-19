@@ -3,29 +3,44 @@
 Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met het vakgebied. 
 Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
 
-## Programma
-
-| Datum  |  Bedrijven | Vraag |
-|---|---|---|---|
-| 5 Maart  | [Dept](https://www.deptagency.com/nl-nl/), [Label A](http://www.labela.design) | Op de [CSS-tricks blog](https://css-tricks.com/what-makes-a-good-front-end-developer/) staat een lijst interessante mensen die beschrijven wat een goede front-end developer is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees de [Te great divide](https://css-tricks.com/the-great-divide/) om de vraag te beantwoorden. |
-| 1 April  | [Triple](https://www.wearetriple.com), [BIA](https://www.bia.nl/) | |
-| 30 April  | [Mirabeau](https://www.mirabeau.nl), [Lifely](https://lifely.nl) |   |
-| 4 Juni  | Stagediving * | Misschien offline?  |
-
-* Stagediving met Dept, Label A, Triple, BIA. Mirabeau, Lifely, Q42, Voorhoede, GRRR, ICAT, Funda, ...
-
 ## Leerdoelen
 - Kennismaken met het beroepenvel
 - Orienteren op het vakgebied
 - Vakgerelateerde artikelen leren schrijven
 
-## Werkwijze
+## Programma & Werkwijze
 Drie keer wordt er een presentatie gegeven door iemand uit het vakgebied. 
 Bedrijven presenteren een Case Study en er is ruimte om vragen te stellen. 
 Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
 Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
 
 Maak van iedere presentatie sketch-notes / aantekeningen en verzamel die op een blog. Lees et bijhordende artikel en beantwoord de vraag die erbij hoort. Tip: Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
+
+### Weekly Nerd #1
+
+| Datum  |  Bedrijven | Vraag |
+| 5 Maart  | [Dept](https://www.deptagency.com/nl-nl/), [Label A](http://www.labela.design) |
+
+Op de [CSS-tricks blog](https://css-tricks.com/what-makes-a-good-front-end-developer/) staat een lijst interessante mensen die beschrijven wat een goede frontend developer is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees de [The great divide](https://css-tricks.com/the-great-divide/) om de vraag te beantwoorden. 
+
+
+### Weekly Nerd #2
+
+| 1 April  | [Triple](https://www.wearetriple.com), [BIA](https://www.bia.nl/) | |
+
+
+
+### Weekly Nerd #3
+
+| 30 April  | [Mirabeau](https://www.mirabeau.nl), [Lifely](https://lifely.nl) |   |
+
+
+### Weekly Nerd #4
+
+| 4 Juni  | Stagediving * | Misschien offline?  |
+
+* Stagediving met Dept, Label A, Triple, BIA. Mirabeau, Lifely, Q42, Voorhoede, GRRR, ICAT, Funda, ...
+
 
 
 ## Criteria
