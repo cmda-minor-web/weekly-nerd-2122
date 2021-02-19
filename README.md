@@ -14,8 +14,8 @@ Bedrijven presenteren een Case Study en er is ruimte om vragen te stellen.
 Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
 Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
 
-Maak van iedere presentatie sketch-notes / aantekeningen en verzamel die op een blog. 
-Beantwoord per sessie ook de vraag die erbij hoort. 
+Maak van iedere presentatie sketch-notes / aantekeningen. Beantwoord per sessie ook de vraag die erbij hoort. 
+Fork de Weekly Nerd repo en verzamel je aantekeningen in de wiki of maak zelf een blog. 
 Tip: Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
 
 ### Weekly Nerd #1
