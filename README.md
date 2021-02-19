@@ -24,7 +24,7 @@ Tip: Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan 
 |---|---|
 | 5 Maart  | [Dept](https://www.deptagency.com/nl-nl/), [Label A](http://www.labela.design) |
 
-Op de [CSS-tricks blog](https://css-tricks.com/what-makes-a-good-front-end-developer/) staat een lijst interessante mensen die beschrijven wat een goede frontend developer is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees de [The great divide](https://css-tricks.com/the-great-divide/) om de vraag te beantwoorden. 
+Op de CSS-tricks staat een lijst interessante mensen die beschrijven wat een [goede frontend developer](https://css-tricks.com/what-makes-a-good-front-end-developer/) is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees de [The great divide](https://css-tricks.com/the-great-divide/) van Brad Frost om de vraag te beantwoorden. 
 
 
 ### Weekly Nerd #2
