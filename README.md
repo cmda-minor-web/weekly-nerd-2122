@@ -14,7 +14,9 @@ Bedrijven presenteren een Case Study en er is ruimte om vragen te stellen.
 Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
 Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
 
-Maak van iedere presentatie sketch-notes / aantekeningen en verzamel die op een blog. Lees et bijhordende artikel en beantwoord de vraag die erbij hoort. Tip: Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
+Maak van iedere presentatie sketch-notes / aantekeningen en verzamel die op een blog. 
+Lees per presentatie het bijhordende artikel en beantwoord de vraag die erbij hoort. 
+Tip: Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
 
 ### Weekly Nerd #1
 
