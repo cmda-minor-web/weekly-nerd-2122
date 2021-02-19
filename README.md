@@ -11,6 +11,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 | 1 April  | [Triple](https://www.wearetriple.com), [BIA](https://www.bia.nl/) | |
 | 30 April  | [Mirabeau](https://www.mirabeau.nl), [Lifely](https://lifely.nl) |   |
 | 4 Juni  | Stagediving * | Misschien offline?  |
+
 * Stagediving met Dept, Label A, Triple, BIA. Mirabeau, Lifely, Q42, Voorhoede, GRRR, ICAT, Funda, ...
 
 ## Leerdoelen
