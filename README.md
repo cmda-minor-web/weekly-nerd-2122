@@ -5,7 +5,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 
 ## Leerdoelen
 - Kennismaken met het beroepenveld
-- Orienteren op het vakgebied
+- Oriënteren op het vakgebied
 - Vakgerelateerde artikelen leren schrijven
 
 ## Programma & Werkwijze
