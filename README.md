@@ -58,11 +58,23 @@ In de post [Wat is een goede frontend developer](https://css-tricks.com/what-mak
 <!-- Voorbeeld vacature tekst met werkzaamheden -->
 
 
-### Weekly Nerd #4
+### Weekly Nerd Stagedving
+
+Aan het vad van de minor organiseren we een stagemarkt voor de studenten van de minor. 
 
 | Datum  |  Bedrijven |
 |---|---|
 | 4 Juni  | Stagediving met Dept, Label A, Triple, BIA. Mirabeau, Lifely, Q42, Voorhoede, GRRR, ICAT, Funda, ... |
+|  | Label A |
+|  | Triple |
+|  | BIA |
+|  | Mirabeau |
+|  | Lifely |
+|  | Q42 |
+|  | Voorhoede |
+|  | GRRR |
+|  | ICAT |
+|  | Funda |
 
 
 
