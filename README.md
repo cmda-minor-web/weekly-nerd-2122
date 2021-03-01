@@ -84,7 +84,7 @@ Je kan gesprekken voeren met bedrijven voor een afstudeerstage, of je alvast ori
 
 ### Weekly Nerd artikelen
 
-Drie keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
+Drie keer schrijf je een uitgebreid artikel over een relevant web design en development onderwerp. 
 Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
 Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
 Engels wordt aangeraden.
