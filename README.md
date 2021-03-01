@@ -58,13 +58,15 @@ In de post [Wat is een goede frontend developer](https://css-tricks.com/what-mak
 <!-- Voorbeeld vacature tekst met werkzaamheden -->
 
 
-### Weekly Nerd Stagedving
+### Weekly Nerd Stagediving
 
-Aan het vad van de minor organiseren we een stagemarkt voor de studenten van de minor. 
+Aan het eind van de minor organiseren we een stagemarkt voor de studenten van de minor. 
+Dit is optioneel, als je nog geen afstudeerstage hebt, of ke alvast wil orietneren op een afstudeerproject kun je afspraken maken met onderstaande bedrijven.
 
 | Datum  |  Bedrijven |
 |---|---|
-| 4 Juni  | Stagediving met Dept |
+| 4 Juni  | Stagediving |
+|  | Dept |
 |  | Label A |
 |  | Triple |
 |  | BIA |
