@@ -61,7 +61,8 @@ In de post [Wat is een goede frontend developer](https://css-tricks.com/what-mak
 ### Weekly Nerd Stagediving
 
 Aan het eind van de minor organiseren we een stagemarkt voor de studenten van de minor. 
-Dit is optioneel, als je nog geen afstudeerstage hebt, of ke alvast wil orietneren op een afstudeerproject kun je afspraken maken met onderstaande bedrijven.
+Dit is optioneel. 
+Je kan gesprekken voeren met bedrijven voor een afstudeerstage, of je alvast orietneren op een afstudeerproject.
 
 | Datum  |  Bedrijven |
 |---|---|
