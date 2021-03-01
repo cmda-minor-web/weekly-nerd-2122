@@ -80,8 +80,6 @@ Je kan gesprekken voeren met bedrijven voor een afstudeerstage, of je alvast ori
 |  | Funda |
 
 
-
-
 ### Weekly Nerd artikelen
 
 Drie keer schrijf je een uitgebreid artikel over een relevant web design en development onderwerp. 
