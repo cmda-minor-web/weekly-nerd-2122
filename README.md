@@ -64,7 +64,7 @@ Aan het vad van de minor organiseren we een stagemarkt voor de studenten van de 
 
 | Datum  |  Bedrijven |
 |---|---|
-| 4 Juni  | Stagediving met Dept, Label A, Triple, BIA. Mirabeau, Lifely, Q42, Voorhoede, GRRR, ICAT, Funda, ... |
+| 4 Juni  | Stagediving met Dept |
 |  | Label A |
 |  | Triple |
 |  | BIA |
