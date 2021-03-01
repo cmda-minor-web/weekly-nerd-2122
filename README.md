@@ -17,10 +17,11 @@ Maak van iedere presentatie sketch-notes / aantekeningen en beantwoord de vraag 
 Fork de Weekly Nerd repo en verzamel je aantekeningen in de wiki of maak zelf een blog. 
 <!-- Tip: Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen. -->
 
+Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
+Als je een Weekly Nerd mist dan krijg je een vervangende opdracht.
+
 Drie keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
 Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
-Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
-Engels wordt aangeraden.
 
 ### Weekly Nerd #1
 
@@ -41,7 +42,7 @@ In de post [Wat is een goede frontend developer](https://css-tricks.com/what-mak
 
 #### Vraag
 
-- under construction - 
+ _under construction_
 <!-- Vraag over softskills -->
 
 ### Weekly Nerd #3
@@ -52,7 +53,7 @@ In de post [Wat is een goede frontend developer](https://css-tricks.com/what-mak
 
 #### Vraag
 
-- under construction - 
+ _under construction_
 <!-- Verschil niveau  Ad, Ba en master niveau van een frontender -->
 <!-- Voorbeeld vacature tekst met werkzaamheden -->
 
@@ -64,14 +65,19 @@ In de post [Wat is een goede frontend developer](https://css-tricks.com/what-mak
 | 4 Juni  | Stagediving met Dept, Label A, Triple, BIA. Mirabeau, Lifely, Q42, Voorhoede, GRRR, ICAT, Funda, ... |
 
 
-## Criteria
-Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
-Als je een Weekly Nerd mist dan krijg je een vervangende opdracht.
-
-Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
 
 
-### Voorbeelden van voorgaande jaren
+### Weekly Nerd artikelen
+
+Drie keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
+Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
+Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
+Engels wordt aangeraden.
+Lever je blog met de verslagen en artikelen  voor de laatste week van de Meesterproef ingeleverd zijn.
+Tip: Schhrijf elke blokje een artikel, dan ohef je niet alle artikelen aan het ind van de minor te scrijven en krijg je tussentijds feedback op je niveau en schrijfstijl. 
+
+
+### Voorbeelden van artikelen van voorgaande jaren
 
 * https://medium.com/@vincentkempers_/functional-light-programming-helped-me-a-lot-99856a9ac0ff
 * https://codepen.io/servinnissen/post/plan-then-code
