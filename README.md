@@ -15,10 +15,10 @@ Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkve
 Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
 Maak van iedere presentatie sketch-notes / aantekeningen en beantwoord de vraag die bij de sessie hoort. 
 Fork de Weekly Nerd repo en verzamel je aantekeningen in de wiki of maak zelf een blog. 
-<!-- Tip: Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen. -->
-
 Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
 Als je een Weekly Nerd mist dan krijg je een vervangende opdracht.
+<!-- Tip: Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen. -->
+
 
 Drie keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
 Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
