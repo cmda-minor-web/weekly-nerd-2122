@@ -89,7 +89,7 @@ Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse v
 Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
 Engels wordt aangeraden.
 Lever je blog met de verslagen en artikelen  voor de laatste week van de Meesterproef ingeleverd zijn.
-Tip: Schhrijf elke blokje een artikel, dan ohef je niet alle artikelen aan het ind van de minor te scrijven en krijg je tussentijds feedback op je niveau en schrijfstijl. 
+Tip: Schrijf elke lesblok een artikel en lever dit in, dan hoef je niet alle artikelen aan het eind van de minor te schrijven en krijg je tussentijds feedback op je niveau en schrijfstijl. 
 
 
 ### Voorbeelden van artikelen van voorgaande jaren
