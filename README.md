@@ -57,6 +57,8 @@ In de post [Wat is een goede frontend developer](https://css-tricks.com/what-mak
 <!-- Verschil niveau  Ad, Ba en master niveau van een frontender -->
 <!-- Voorbeeld vacature tekst met werkzaamheden -->
 
+<!-- starreflectie laten schrijven? -->
+
 
 ### Weekly Nerd Stagediving
 
