@@ -40,9 +40,9 @@ In de post [Wat is een goede frontend developer](https://css-tricks.com/what-mak
 
 | donderdag 1 april  |  Bedrijven |
 |---|---|
-| 14:00  | Intro |
-| 14:01 [Build in Amsterdam](https://www.bia.nl/) met [Fenna de Wilde](https://www.linkedin.com/in/fenna-de-wilde/) Frontend Developer|
-| 1 April  | [Triple](https://www.wearetriple.com) met [Chanel Mepschen](https://www.linkedin.com/in/chanel-mepschen-1223a9b2/) & [Shyanta Vleugel](https://www.linkedin.com/in/shyantav/) Frontend Developers |
+| 14:00 | Intro |
+| 14:01 | [Build in Amsterdam](https://www.bia.nl/) met [Fenna de Wilde](https://www.linkedin.com/in/fenna-de-wilde/) Frontend Developer|
+| 15:00 | [Triple](https://www.wearetriple.com) met [Chanel Mepschen](https://www.linkedin.com/in/chanel-mepschen-1223a9b2/) & [Shyanta Vleugel](https://www.linkedin.com/in/shyantav/) Frontend Developers |
 
 #### Vraag
 
