@@ -25,9 +25,11 @@ Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse v
 
 ### Weekly Nerd #1
 
-| Datum  |  Bedrijven |
+| Vrijdag 5 Maart  |  Bedrijven |
 |---|---|
-| 5 Maart  | [Dept](https://www.deptagency.com/nl-nl/), [Label A](http://www.labela.design) |
+| 14:00  | Kickoff |
+| 14:05  | [Label A](http://www.labela.design) met [Gavin Ligthart](https://www.linkedin.com/in/gavinligthart/) Frontend Developer |
+| 15:00  | [Dept](https://www.deptagency.com/nl-nl/) met [Raymond Korrel](https://www.linkedin.com/in/raymond-korrel/) Frontend Developer & [Ilayda Küçükosmanoğlu](https://www.linkedin.com/in/ilaydadept/) Interaction Designer |
 
 #### Vraag
 
@@ -36,14 +38,17 @@ In de post [Wat is een goede frontend developer](https://css-tricks.com/what-mak
 
 ### Weekly Nerd #2
 
-| Datum  |  Bedrijven |
+| donderdag 1 april  |  Bedrijven |
 |---|---|
-| 1 April  | [Triple](https://www.wearetriple.com), [BIA](https://www.bia.nl/) |
+| 14:00  | Intro |
+| 14:01 [Build in Amsterdam](https://www.bia.nl/) met [Fenna de Wilde](https://www.linkedin.com/in/fenna-de-wilde/) Frontend Developer|
+| 1 April  | [Triple](https://www.wearetriple.com) met [Chanel Mepschen](https://www.linkedin.com/in/chanel-mepschen-1223a9b2/) & [Shyanta Vleugel](https://www.linkedin.com/in/shyantav/) |
 
 #### Vraag
 
  _under construction_
 <!-- Vraag over softskills -->
+<!-- Vraag over mannen/vrouwen/inclusive -->
 
 ### Weekly Nerd #3
 
@@ -56,8 +61,7 @@ In de post [Wat is een goede frontend developer](https://css-tricks.com/what-mak
  _under construction_
 <!-- Verschil niveau  Ad, Ba en master niveau van een frontender -->
 <!-- Voorbeeld vacature tekst met werkzaamheden -->
-
-<!-- starreflectie laten schrijven? -->
+<!-- star-reflectie laten schrijven? -->
 
 
 ### Weekly Nerd Stagediving
