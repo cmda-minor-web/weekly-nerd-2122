@@ -28,7 +28,7 @@ Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse v
 | Vrijdag 5 Maart  |  Bedrijven |
 |---|---|
 | 14:00  | Kickoff |
-| 14:05  | [Label A](http://www.labela.design) met [Gavin Ligthart](https://www.linkedin.com/in/gavinligthart/) Frontend Developer |
+| 14:05  | [Label A](https://labela.nl) met [Gavin Ligthart](https://www.linkedin.com/in/gavinligthart/) Frontend Developer |
 | 15:00  | [Dept](https://www.deptagency.com/nl-nl/) met [Raymond Korrel](https://www.linkedin.com/in/raymond-korrel/) Frontend Developer & [Ilayda Küçükosmanoğlu](https://www.linkedin.com/in/ilaydadept/) Interaction Designer |
 
 #### Vraag
@@ -42,7 +42,7 @@ In de post [Wat is een goede frontend developer](https://css-tricks.com/what-mak
 |---|---|
 | 14:00  | Intro |
 | 14:01 [Build in Amsterdam](https://www.bia.nl/) met [Fenna de Wilde](https://www.linkedin.com/in/fenna-de-wilde/) Frontend Developer|
-| 1 April  | [Triple](https://www.wearetriple.com) met [Chanel Mepschen](https://www.linkedin.com/in/chanel-mepschen-1223a9b2/) & [Shyanta Vleugel](https://www.linkedin.com/in/shyantav/) |
+| 1 April  | [Triple](https://www.wearetriple.com) met [Chanel Mepschen](https://www.linkedin.com/in/chanel-mepschen-1223a9b2/) & [Shyanta Vleugel](https://www.linkedin.com/in/shyantav/) Frontend Developers |
 
 #### Vraag
 
