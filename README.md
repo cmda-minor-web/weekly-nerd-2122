@@ -33,7 +33,7 @@ Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse v
 
 #### Vraag
 
-In de post [Wat is een goede frontend developer](https://css-tricks.com/what-makes-a-good-front-end-developer/) op CSS tricks staat een lijst interessante mensen die beschrijven wat een frontende developer is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees ook de [The great divide](https://css-tricks.com/the-great-divide/) van Brad Frost om de vraag te beantwoorden. 
+In de post [Wat is een goede frontend developer](https://css-tricks.com/what-makes-a-good-front-end-developer/) op CSS tricks staat een lijst interessante mensen die beschrijven wat een frontende developer is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees ook de [The great divide](https://css-tricks.com/the-great-divide/) van Chris Coyer om de vraag te beantwoorden. 
 
 
 ### Weekly Nerd #2
