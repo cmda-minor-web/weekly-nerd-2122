@@ -28,8 +28,8 @@ Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse v
 | Vrijdag 5 Maart  |  Bedrijven |
 |---|---|
 | 14:00  | Kickoff |
-| 14:05  | [Label A](https://labela.nl) met [Gavin Ligthart](https://www.linkedin.com/in/gavinligthart/) Frontend Developer |
-| 15:00  | [Dept](https://www.deptagency.com/nl-nl/) met [Raymond Korrel](https://www.linkedin.com/in/raymond-korrel/) Frontend Developer & [Ilayda Küçükosmanoğlu](https://www.linkedin.com/in/ilaydadept/) Interaction Designer |
+| 14:05  | [Dept](https://www.deptagency.com/nl-nl/) met [Raymond Korrel](https://www.linkedin.com/in/raymond-korrel/) Frontend Developer & [Ilayda Küçükosmanoğlu](https://www.linkedin.com/in/ilaydadept/) Interaction Designer |
+| 15:00  | [Label A](https://labela.nl) met [Gavin Ligthart](https://www.linkedin.com/in/gavinligthart/) Frontend Developer|
 
 #### Vraag
 
