@@ -47,7 +47,7 @@ In de post [Wat is een goede frontend developer](https://css-tricks.com/what-mak
 
 #### Vraag #2
 
-Je hebt geleerd hoe je toegankelijke websites kan maken. Een belangrijk uitgangspunt voor een digital designer is om ervoor te zorgen dat een website door iedereen te gebruiken is. Toch zijn veel ontwikkelbedrijven zelf niet 'inclusive'. Ook de tech-industrie bestaat voor een groot deel uit dezelfde type personen en testen vervolgens hun websites bij weer dezelfde types, met stereotypering, vooroordelen en _biased_ uitkomsten tot gevolg. Voel jij je thuis in deze wereld? Moet dit veranderen? In wat voor team zie jij jezelf graag werken? Lees ook het artikel 
+Je hebt geleerd hoe je toegankelijke websites kan maken. Een belangrijk uitgangspunt voor een digital designer is om ervoor te zorgen dat een website door iedereen te gebruiken is. Toch zijn veel ontwikkelbedrijven zelf niet 'inclusive'. Ook de tech-industrie bestaat voor een groot deel uit dezelfde type personen en testen vervolgens hun websites bij weer dezelfde types, met stereotypering, vooroordelen en _biased_ uitkomsten tot gevolg. Herken je dit als probleem? Moet dit veranderen? In wat voor team zie jij jezelf graag werken? Lees ook het artikel 
 [On racism and sexism in branding, user interface, and tech](https://uxdesign.cc/on-racism-and-sexism-in-branding-user-interface-and-tech-337f5ceb7ed5) en gebruik dit voor het beantwoorden van de vraag.
 
 <img width="1145" alt="Adapting to Reality" src="https://user-images.githubusercontent.com/1391509/113145133-58267b80-922e-11eb-82e4-f7c8867b90ce.png">
