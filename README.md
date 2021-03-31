@@ -22,6 +22,7 @@ Als je een Weekly Nerd mist dan krijg je een vervangende opdracht.
 
 Drie keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
 Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
+[Lees hier meer over het schrijven van artikelen](#weekly-nerd-artikelen) en lees een paar voorbeelden van vorige jaren. 
 
 ### Weekly Nerd #1
 
