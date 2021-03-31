@@ -31,7 +31,7 @@ Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse v
 | 14:05  | [Dept](https://www.deptagency.com/nl-nl/) met [Raymond Korrel](https://www.linkedin.com/in/raymond-korrel/) Frontend Developer & [Ilayda Küçükosmanoğlu](https://www.linkedin.com/in/ilaydadept/) Interaction Designer |
 | 15:00  | [Label A](https://labela.nl) met [Gavin Ligthart](https://www.linkedin.com/in/gavinligthart/) Frontend Developer|
 
-#### Vraag
+#### Vraag #1
 
 In de post [Wat is een goede frontend developer](https://css-tricks.com/what-makes-a-good-front-end-developer/) op CSS tricks staat een lijst interessante mensen die beschrijven wat een frontende developer is. Welke skills denk jij dat een goede frontender moet hebben en wat voor frontender ben jij eigenlijk? Lees ook de [The great divide](https://css-tricks.com/the-great-divide/) van Chris Coyer om deze vraag te beantwoorden. 
 
@@ -44,7 +44,7 @@ In de post [Wat is een goede frontend developer](https://css-tricks.com/what-mak
 | 14:01 | [Build in Amsterdam](https://www.buildinamsterdam.com/cases) met [Fenna de Wilde](https://www.linkedin.com/in/fenna-de-wilde/) Frontend Developer|
 | 15:00 | [Triple](https://www.wearetriple.com) met [Chanel Mepschen](https://www.linkedin.com/in/chanel-mepschen-1223a9b2/) & [Shyanta Vleugel](https://www.linkedin.com/in/shyantav/) Frontend Developers |
 
-#### Vraag
+#### Vraag #2
 
 Je hebt geleerd hoe je toegankelijke websites kan maken. Een belangrijk uitgangspunt voor een digital designer is om ervoor te zorgen dat een website door iedereen te gebruiken is. Toch zijn veel ontwikkelbedrijven zelf niet 'inclusive'. Ook de tech-industrie bestaat voor een groot deel uit dezelfde type personen en testen vervolgens hun websites bij weer dezelfde types, met stereotypering, vooroordelen en _biased_ uitkomsen tot gevolg. Voel jij je thuis in deze wereled? Moet dit veranderen? In wat voor team zie jij jezelf graag werken? Lees ook het artikel 
 [On racism and sexism in branding, user interface, and tech](https://uxdesign.cc/on-racism-and-sexism-in-branding-user-interface-and-tech-337f5ceb7ed5) en gebruik dit voor het beantoorden van de vraag.
