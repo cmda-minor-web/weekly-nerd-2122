@@ -95,6 +95,7 @@ Drie keer schrijf je een uitgebreid artikel over een relevant web design en deve
 Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
 Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
 Engels wordt aangeraden.
+
 Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
 
 Tip: Schrijf elke lesblok een artikel en lever dit in, dan hoef je niet alle artikelen aan het eind van de minor te schrijven en krijg je tussentijds feedback op je niveau en schrijfstijl. 
