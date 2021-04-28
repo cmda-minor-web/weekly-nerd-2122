@@ -55,10 +55,6 @@ Lees het artikel [On racism and sexism in branding, user interface, and tech](ht
 
 ### Weekly Nerd #3
 
-| Datum  |  Bedrijven |
-|---|---|
-| 30 April  | , [Lifely](https://lifely.nl) |
-
 | vrijdag 30 april  |  Bedrijven |
 |---|---|
 | 13:00 | Intro |
