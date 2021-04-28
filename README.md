@@ -57,7 +57,14 @@ Lees het artikel [On racism and sexism in branding, user interface, and tech](ht
 
 | Datum  |  Bedrijven |
 |---|---|
-| 30 April  | [Mirabeau](https://www.mirabeau.nl), [Lifely](https://lifely.nl) |
+| 30 April  | , [Lifely](https://lifely.nl) |
+
+| vrijdag 30 april  |  Bedrijven |
+|---|---|
+| 13:00 | Intro |
+| 13:01 | [Mirabeau](https://www.mirabeau.nl) met [Dave Bitter](https://www.davebitter.com/) Frontend Developer en [Alexander Munz]() Visual Designer|
+| 14:00 | [Lifely](https://lifely.nl) met [Jesse de Vries](https://www.linkedin.com/in/jessedvrs/) |
+
 
 #### Vraag #3
 
