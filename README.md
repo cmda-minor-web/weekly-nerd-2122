@@ -59,13 +59,12 @@ Lees het artikel [On racism and sexism in branding, user interface, and tech](ht
 |---|---|
 | 30 April  | [Mirabeau](https://www.mirabeau.nl), [Lifely](https://lifely.nl) |
 
-#### Vraag
+#### Vraag #3
 
- _under construction_
-<!-- Verschil niveau  Ad, Ba en master niveau van een frontender -->
-<!-- Voorbeeld vacature tekst met werkzaamheden -->
-<!-- star-reflectie laten schrijven? -->
-<!-- Vraag over softskills -->
+Je bent nu 3 maanden 24/7 code aan het klopppen. Hopelijk heb je super veel geleerd, ben je regelmatig uitgedaagd en weet je (nog beter) waar je grenzen liggen en hoe je je verder kan en wil onwikkelen als "frontender". Of juist niet ... 
+
+In de verschillende vakken die je hebt gevolgd zijn technieken en werkwijzen aan bod gekomen die een "echte" frontender ook doet: prototypen, experimenteren, ingewikkelde code, simpele code, onderzoeken, testen, lezen, documenteren, en heel veel HTML, CSS en JS, op de client en op de server. Welke onderwerpen hebben de meeste indruk op je gemaakt? Een gastspreker misschien? Een test? Een inzicht tijdens een Discords sessie met een van de student-assistenten? Schrijf per vak wat je hebt geleerd en wat je meeneemt als frontender.
+
 
 ### Weekly Nerd Stagediving
 
