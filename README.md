@@ -73,7 +73,7 @@ In de verschillende vakken die je hebt gevolgd zijn technieken en werkwijzen aan
 
 Aan het eind van de minor organiseren we een stagemarkt voor de studenten van de minor. 
 Dit is optioneel. 
-Je kan gesprekken voeren met bedrijven voor een afstudeerstage, of je alvast orietneren op een afstudeerproject.
+Je kan gesprekken voeren met bedrijven voor een afstudeerstage, of je alvast oriënteren op een afstudeerproject.
 
 | Datum  |  Bedrijven |
 |---|---|
