@@ -59,7 +59,6 @@ Lees het artikel [On racism and sexism in branding, user interface, and tech](ht
 |---|---|
 | 14:00 | Intro |
 | 14:01 | [Mirabeau](https://www.mirabeau.nl) met [Dave Bitter](https://www.davebitter.com/) Frontend Developer & [Alexander Munz]() Visual Designer|
-| ~~15:00~~ | ~~[Lifely](https://lifely.nl) met [Jesse de Vries](https://www.linkedin.com/in/jessedvrs/) Frontend Developer~~ |
 
 
 #### Vraag #3
