@@ -57,8 +57,8 @@ Lees het artikel [On racism and sexism in branding, user interface, and tech](ht
 
 | vrijdag 30 april  |  Bedrijven |
 |---|---|
-| 14:00 | Intro |
-| 14:01 | [Mirabeau](https://www.mirabeau.nl) met [Dave Bitter](https://www.davebitter.com/) Frontend Developer & [Alexander Munz]() Visual Designer|
+| 15:00 | Intro |
+| 15:01 | [Mirabeau](https://www.mirabeau.nl) met [Dave Bitter](https://www.davebitter.com/) Frontend Developer & [Alexander Munz]() Visual Designer|
 
 
 #### Vraag #3
