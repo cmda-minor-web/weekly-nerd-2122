@@ -1,4 +1,4 @@
-# Weekly Nerd @cmda-minor-web · 2020 - 2021
+# Weekly Nerd @cmda-minor-web 2021 - 2022
 
 Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met het vakgebied. 
 Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
@@ -13,7 +13,7 @@ Drie keer wordt er een presentatie gegeven door bedrijven uit het vakgebied.
 Bedrijven presenteren een Case Study en er is ruimte om vragen te stellen. 
 Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
 Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
-Maak van iedere presentatie sketch-notes / aantekeningen en beantwoord de vraag die bij de sessie hoort. 
+Maak van iedere presentatie sketch-notes / aantekeningen.
 Fork de Weekly Nerd repo en verzamel je aantekeningen in de wiki of maak zelf een blog. 
 Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
 Als je een Weekly Nerd mist dan krijg je een vervangende opdracht.
@@ -24,7 +24,28 @@ Drie keer schrijf je een uitgebreid artikel over een relevant onderwerp.
 Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
 [Lees hier meer over het schrijven van artikelen](#weekly-nerd-artikelen) en lees een paar voorbeelden van vorige jaren. 
 
-### Weekly Nerd #1
+
+### Programma
+
+| Datum  | Spreker |
+|---|---|
+| 9 februari  | Cyd Stumpel - Creative Developer |
+| 16 februari  | Alvaro Montoro |
+| 2 maart  | Fenna de Wilde |
+| 23 maart  | Rik Schennink |
+| 30 maart  | Krijn Hoetmer |
+| 30 maart  | Vitaly Friedman |
+| 13 april  | Chanel |
+| 20 april  | Léonie Watson |
+| 27 april  | Rian Rietveld |
+| 25 mei  | Weekly Mingle |
+| 1 juni  | Weekly Mingle |
+| 8 juni  | Weekly Mingle |
+| 15 juni  | Weekly Mingle |
+
+
+
+<!-- ### Weekly Nerd #1
 
 | Vrijdag 5 Maart  |  Bedrijven |
 |---|---|
@@ -65,29 +86,7 @@ Lees het artikel [On racism and sexism in branding, user interface, and tech](ht
 
 Je bent nu 3 maanden 24/7 code aan het klopppppen. Hopelijk heb je super veel geleerd, ben je regelmatig uitgedaagd, weet je (nog beter) waar je grenzen liggen en hoe je je verder kan en wil onwikkelen als "frontender". Of juist niet ... 
 
-In de verschillende vakken die je hebt gevolgd zijn technieken en werkwijzen aan bod gekomen die een "echte" frontender ook doet: prototypen, experimenteren, ingewikkelde code, simpele code, onderzoeken, testen, lezen, documenteren, en heel veel HTML, CSS en JS, op de client en op de server. Welke onderwerpen hebben de meeste indruk op je gemaakt? Een gastspreker of een test? Een inzicht tijdens een Discord-sessie met een van de student-assistenten? Schrijf per vak wat je hebt geleerd en wat je meeneemt als frontender.
-
-
-### Weekly Nerd Stagediving
-
-Aan het eind van de minor organiseren we een stagemarkt voor de studenten van de minor. 
-Dit is optioneel. 
-Je kan gesprekken voeren met bedrijven voor een afstudeerstage, of je alvast oriënteren op een afstudeerproject.
-
-| Datum  |  Bedrijven |
-|---|---|
-| 4 Juni  | Stagediving |
-|  | Dept |
-|  | Label A |
-|  | Triple |
-|  | BIA |
-|  | Mirabeau |
-|  | Lifely |
-|  | Q42 |
-|  | Voorhoede |
-|  | GRRR |
-|  | ICAT |
-|  | Funda |
+In de verschillende vakken die je hebt gevolgd zijn technieken en werkwijzen aan bod gekomen die een "echte" frontender ook doet: prototypen, experimenteren, ingewikkelde code, simpele code, onderzoeken, testen, lezen, documenteren, en heel veel HTML, CSS en JS, op de client en op de server. Welke onderwerpen hebben de meeste indruk op je gemaakt? Een gastspreker of een test? Een inzicht tijdens een Discord-sessie met een van de student-assistenten? Schrijf per vak wat je hebt geleerd en wat je meeneemt als frontender. -->
 
 
 ### Weekly Nerd artikelen
