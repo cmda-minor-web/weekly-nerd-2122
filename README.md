@@ -1,4 +1,4 @@
-# Weekly Nerd @cmda-minor-web 2021 - 2022
+# Weekly Nerd @cmda-minor-web 2122
 
 Tijdens de minor worden een aantal sessies georganiseerd om kennis te maken met het vakgebied. 
 Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
