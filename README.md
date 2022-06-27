@@ -9,8 +9,7 @@ Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. N
 - Vakgerelateerde artikelen leren schrijven
 
 ## Programma & Werkwijze
-Drie keer wordt er een presentatie gegeven door bedrijven uit het vakgebied. 
-Bedrijven presenteren een Case Study en er is ruimte om vragen te stellen. 
+Wekelijks worden presentaties gegeven door bedrijven uit het vakgebied. 
 Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
 Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
 Maak van iedere presentatie sketch-notes / aantekeningen.
